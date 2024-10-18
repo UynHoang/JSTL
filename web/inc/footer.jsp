@@ -176,7 +176,7 @@
         </div>
     </section>
 
-    <section id="newsletter" class="section-p1 section-m1">
+-->    <section id="newsletter" class="section-p1 section-m1">
         <div class="newstext">
             <h4>Sign Up For Newsletters</h4>
             <p>Get E-mail updates about our latest shop and <span>special offers</span></p>
@@ -185,7 +185,7 @@
             <input type="text" placeholder="Your email address">
             <button class="normal">Sign up</button>
         </div>
-    </section>-->
+    </section>
 
     <footer class="section-p1">
         <div class="col">
@@ -229,6 +229,6 @@
                 <img src="img/pay/play.jpg" alt="">
             </div>
             <p>Secured Payment Gateaways</p>
-            <img src="img/pay/pay.png" alt="">
+            <img src="./assets/img/pay/pay.png" alt="">
         </div>
     </footer>
